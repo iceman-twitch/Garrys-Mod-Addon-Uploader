@@ -1,0 +1,23 @@
+{
+	"title" : "Test",
+	"type" : "Gamemode",
+	"tags" : [ "fun", "roleplay" ],
+	"ignore" :
+	[
+		".gitignore",
+		".gitattributes",
+		".git*",
+		"*.md",
+		"*.xlsx",
+		"*.xls",
+		"*.bat",
+		"*.zip",
+		"*.old",
+		"*.old2",
+		"*.7z",
+		"*.gma",
+		"*.ogm",
+		"*.psd",
+		"*.bz2"
+	]
+}

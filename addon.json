@@ -1,11 +1,14 @@
 {
-	"title" : "Test",
+	"title" : "Half-Life 2: Campaign Gamemode WIP",
 	"type" : "Gamemode",
 	"tags" : [ "fun", "roleplay" ],
 	"ignore" :
 	[
+		".git/*",
 		".gitignore",
+		".gitignore*",
 		".gitattributes",
+		".gitattributes*",
 		".git*",
 		"*.md",
 		"*.xlsx",
@@ -19,5 +22,6 @@
 		"*.ogm",
 		"*.psd",
 		"*.bz2"
+
 	]
 }

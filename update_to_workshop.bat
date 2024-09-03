@@ -1,4 +1,4 @@
-set WORKSHOP_ID=2876378639
+set WORKSHOP_ID=ID
 
 cd /d "%~dp0"
 D:
